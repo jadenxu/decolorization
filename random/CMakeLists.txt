@@ -1,0 +1,2 @@
+ADD_EXECUTABLE(random main.cpp)
+TARGET_LINK_LIBRARIES(random ${OpenCV_LIBS})

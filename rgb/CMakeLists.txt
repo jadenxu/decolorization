@@ -1,0 +1,2 @@
+ADD_EXECUTABLE(rgb main.cpp)
+TARGET_LINK_LIBRARIES(rgb ${OpenCV_LIBS})
